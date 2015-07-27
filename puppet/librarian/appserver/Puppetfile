@@ -1,0 +1,6 @@
+
+#use the official puppet labs forge
+
+forge "http://forge.puppetlabs.com"
+
+mod "jfryman/nginx"
